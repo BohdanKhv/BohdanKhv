@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @SpaceGuyDev
-- 👀 I’m interested in Web\mobile apps
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me - email pevbog@gmail.com
-
-<!---
-SpaceGuyDev/SpaceGuyDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I've been developing my skillset over the past 2 years and I have knowlage of JavaScript, React Native, React Js, and Node.js. I have independently launched apps for finance and education. I believe I am ready to contribute to a team and am looking for opportunities. I am also interested in connecting with like-minded people to improve my skills and share interests. You will not find a harder working and more focused person. 
+- The best way to reach me is via email PEVBOG@GMAIL.COM
