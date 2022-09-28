@@ -1,2 +1,2 @@
 I've been developing my skillset over the past 2 years and I have knowledge of JavaScript, React.js, Node.js, MongoDB, Redux, and React Native. I believe I am ready to contribute to a team and am looking for opportunities. I am also interested in connecting with like-minded people to improve my skills and share interests. You will not find a harder working and more focused person.
-- The best way to reach me is via email BohdanKhv@gmail.com
+- The best way to reach me is via email at BohdanKhv@gmail.com
